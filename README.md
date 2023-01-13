@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1fN6s-CwyQPjfX2jAyAHE3UY-JCPCyti4/view?usp=share
 ・オプショングループ  
 ・サブネットグループ  
 ・S3  
-・Route ５３  
+・Route 53
 ・AWS Certificate Manager  
 ・Amazon SES  
 ・ElastiCache  
